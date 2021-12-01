@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+}
+
+#gameBox{
+border: solid black;
+width: 30%;
+margin: auto;
+
+
+
+}
+
+#rollButton{
+    color: white;
+background-color: black;
+font-size: 5vw;
+}
