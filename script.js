@@ -66,6 +66,7 @@ const youWin = () => {
     winLose.innerHTML="YOU WIN";
     playerBox.innerHTML='<a id="startAgain" href="index.html">Start Again?</a>';
     rollButton.innerHTML="";
+  
 }      
 
 const diceScore = Math.ceil(Math.random()*6);
